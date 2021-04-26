@@ -15,4 +15,4 @@ jobs:
 
     steps:
       - name: Jenkins execute
-        run: curl http://1.15.40.38:8080/job/mall/build?token=oj139405nasdkasdfjks
+        run: curl http://1.15.40.38:8080/job/test/build?token=oj139405nasdkasdfjks
