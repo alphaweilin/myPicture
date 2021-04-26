@@ -1,2 +1,2 @@
 this is new text file
-test+123451324
+test+123
