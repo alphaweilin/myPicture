@@ -15,4 +15,4 @@ jobs:
 
     steps:
       - name: Jenkins execute
-        run: curl http://1.15.40.38:8080/job/test/build?token=oj139405nasdkasdfjks
+        run: curl -I -u admin:111b235163060f2e3cc4c224757297789d "http://1.15.40.38:8080/job/test/build?token=oj139405nasdkasdfjks"
